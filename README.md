@@ -9,9 +9,9 @@ Transformamos conhecimento técnico em presença digital.
 
 ## 🛠️ Tecnologias
 
-HTML | CSS | JavaScript | PHP
+Solidworks | AutoCAD | HTML | CSS | JavaScript | PHP 
 
 ## 📫 Contato
 
-- Email: contato@tecwiews.com
+- Email: tecwiews@gmail.com
 - LinkedIn: [Seu LinkedIn](link)
