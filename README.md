@@ -15,3 +15,5 @@ Solidworks | AutoCAD | HTML | CSS | JavaScript | PHP
 
 - Email: tecwiews@gmail.com
 - LinkedIn: [Seu LinkedIn](link)
+
+![Visualizações de Perfil](https://komarev.com/ghpvc/?username=tecwiews&color=blue)
